@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "504754-0700")(type "KiCad")(uri "${KIPRJMOD}/Libraries/504754-0700")(options "")(descr ""))
+  (lib (name "JS102011")(type "KiCad")(uri "${KIPRJMOD}/Libraries/JS102011")(options "")(descr ""))
+  (lib (name "SFH11")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SFH11")(options "")(descr ""))
+)
